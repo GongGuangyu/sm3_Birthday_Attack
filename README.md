@@ -9,3 +9,4 @@ main.py实现sm3以及生日攻击
 ![image](https://user-images.githubusercontent.com/105531474/179967512-29318e5b-b9a3-4fcb-a7f7-93e15f9882cb.png)
 
 # 前24位的时间情况
+![image](https://user-images.githubusercontent.com/105531474/181880109-7c1da829-6bd8-4acb-9a39-b6a2af7859b9.png)
